@@ -6,8 +6,6 @@ icon: fas fa-user
 order: 4
 --------
 
-# About Me
-
 Hi, I'm **Nana Osei Sarpong**, a **Computer Science student** with a strong interest in **Cybersecurity, Ethical Hacking, Vulnerability Analysis, and Security Operations**.
 
 I enjoy understanding how systems work, identifying weaknesses, and learning how security professionals can detect, investigate, and respond to threats.
