@@ -1,12 +1,5 @@
 ---
 
-layout: post
-title: "Building a Home SOC Lab for Practical Security Analysis"
-date: 2026-09-11 20:00:00 +0000
-categories: [Blue Team, SOC]
-tags: [soc, home-lab, siem, windows, linux, cybersecurity]
-----------------------------------------------------------
-
 ## Introduction
 
 Reading about SOC operations is useful, but hands-on practice provides a much deeper understanding.
