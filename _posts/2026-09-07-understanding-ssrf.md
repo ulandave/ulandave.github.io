@@ -1,12 +1,5 @@
 ---
 
-layout: post
-title: "Understanding Server-Side Request Forgery (SSRF)"
-date: 2026-09-07 20:00:00 +0000
-categories: [Web Security]
-tags: [ssrf, web-security, burp-suite, portswigger]
----------------------------------------------------
-
 ## Introduction
 
 **Server-Side Request Forgery (SSRF)** is a vulnerability that occurs when an attacker can influence a server into making requests to an unintended destination.
