@@ -1,12 +1,5 @@
 ---
 
-layout: post
-title: "Active Directory Security: Understanding the DCSync Attack"
-date: 2026-09-08 20:00:00 +0000
-categories: [Active Directory, Red Team]
-tags: [active-directory, dcsync, kerberos, windows, privilege-escalation]
--------------------------------------------------------------------------
-
 ## Introduction
 
 **DCSync** is an Active Directory attack technique that abuses replication permissions to request credential-related information from a domain controller.
