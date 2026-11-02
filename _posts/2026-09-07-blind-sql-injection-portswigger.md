@@ -1,12 +1,5 @@
 ---
 
-layout: post
-title: "PortSwigger Lab: Understanding Blind SQL Injection"
-date: 2026-09-06 20:00:00 +0000
-categories: [Web Security, PortSwigger]
-tags: [sql-injection, blind-sql-injection, burp-suite, web-security]
---------------------------------------------------------------------
-
 ## Introduction
 
 SQL Injection occurs when an application incorporates untrusted user input into SQL queries without properly separating data from SQL syntax.
