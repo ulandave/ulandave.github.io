@@ -1,12 +1,5 @@
 ---
 
-layout: post
-title: "EchoCTF: Apache 2.4.49 Path Traversal to Root"
-date: 2026-09-03 20:00:00 +0000
-categories: [CTF, Exploitation]
-tags: [apache, path-traversal, ssh, privilege-escalation, linux, echocTF]
--------------------------------------------------------------------------
-
 ## Overview
 
 This writeup documents the compromise of a vulnerable Apache HTTP Server 2.4.49 instance.
