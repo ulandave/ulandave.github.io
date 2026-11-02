@@ -1,12 +1,5 @@
 ---
 
-layout: post
-title: "Network Traffic Analysis with Wireshark"
-date: 2026-09-09 20:00:00 +0000
-categories: [Blue Team, Network Security]
-tags: [wireshark, pcap, network-analysis, soc, incident-response]
------------------------------------------------------------------
-
 ## Introduction
 
 Network traffic analysis is an important skill for security analysts.
